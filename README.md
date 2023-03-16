@@ -2,8 +2,7 @@
  Simple Space Invaders game implementation in Python
 
 # Controls
-Movement: right and left arrow (press, don't hold)
-Shooting: space
+Movement with right and left arrows (press, don't hold), shooting with space
 
 # Sources
-All images, sounds, icon and font are downloaded from internet under CC0 and CC1 licenses.
+All images, sounds, icon and font are downloaded from internet under CC0 and CC1 licenses
